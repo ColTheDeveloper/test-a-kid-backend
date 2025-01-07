@@ -90,5 +90,5 @@ export const loginAUserController=async(req:Request, res:Response,next:NextFunct
 }
 
 export const logoutUserController=async(req:Request,res:Response,next:NextFunction)=>{
-    
+
 }
